@@ -1,4 +1,4 @@
-package main.java.com.ecomarket.inventoryservice.controller;
+package com.ecomarket.inventoryservice.controller;
 
 import com.ecomarket.inventoryservice.model.Product;
 import com.ecomarket.inventoryservice.repository.ProductRepository;
