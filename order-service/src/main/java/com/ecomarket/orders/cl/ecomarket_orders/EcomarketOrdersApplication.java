@@ -1,13 +1,14 @@
-package com.ecomarket.orderservice;
+package com.ecomarket.orders.cl.ecomarket_orders;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OrderServiceApplication {
+public class EcomarketOrdersApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OrderServiceApplication.class, args);
+		SpringApplication.run(EcomarketOrdersApplication.class, args);
 	}
 
 }
+

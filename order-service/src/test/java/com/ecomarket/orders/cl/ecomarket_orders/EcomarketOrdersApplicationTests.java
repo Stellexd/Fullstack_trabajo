@@ -1,10 +1,10 @@
-package com.ecomarket.orderservice;
+package com.ecomarket.orders.cl.ecomarket_orders;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OrderServiceApplicationTests {
+class EcomarketOrdersApplicationTests {
 
 	@Test
 	void contextLoads() {
